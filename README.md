@@ -15,7 +15,6 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho e tenho e
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-square&logo=spring&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-square&logo=eclipse&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-square&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-square&logo=html5&logoColor=white)
