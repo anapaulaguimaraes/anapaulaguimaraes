@@ -2,7 +2,7 @@
 
 Sou a Ana Paula Gomes Guimarães, apaixonada pela área de tecnologia, estudante de Análise e Desenvolvimento de Sistemas.
 
-[![Linkedin: anapaula](https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-gomes-guimaraes"target="_blank")](https://www.linkedin.com/in/ana-paula-gomes-guimaraes)
+[![Linkedin: anapaula](https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-gomes-guimaraes"target="_blank")](https://www.linkedin.com/in/ana-paula-gomes-guimaraes"target="_blank")
 
 ## Tecnologias 👩‍💻
 
