@@ -1,4 +1,4 @@
-## Olá, Sou a Ana Paula Gomes Guimarães👋
+## Olá, sou a Ana Paula Gomes Guimarães 👋
 
 Profissional apaixonada por tecnologia, sempre buscando evoluir e impulsionar a inovação.
 Possuo habilidades em PHP, JavaScript, Dart e Java, com vivência em frameworks como Laravel, Spring Boot e Flutter. 
