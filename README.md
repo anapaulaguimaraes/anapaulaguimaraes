@@ -1,11 +1,17 @@
-## Olá, sou a Ana Paula Gomes Guimarães 👋
+## Olá, sou a Ana Paula 👋
 
-Profissional apaixonada por tecnologia, sempre buscando evoluir e impulsionar a inovação.
-Possuo habilidades em PHP, JavaScript, Dart e Java, com vivência em frameworks como Laravel, Spring Boot e Flutter. 
-Familiaridade em metodologia ágil Scrum e ferramentas como Trello e Figma para otimizar projetos. 
-Minha paixão pelo aprendizado e inovação me impulsiona a buscar soluções criativas no mundo da tecnologia, sempre pronta para abraçar novas oportunidades de aprendizado e crescimento.
+Profissional apaixonado por tecnologia e inovação, com habilidades em:
 
-[![Linkedin: anapaula](https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-gomes-guimaraes)](https://www.linkedin.com/in/ana-paula-gomes-guimaraes)
+Desenvolvimento back-end e front-end: PHP, JavaScript, Java, Vue.js e React.js.
+Frameworks: Laravel, Spring Boot e Flutter.
+Bancos de dados: PL/SQL, MySQL e PostgreSQL.
+Metodologia ágil: Scrum.
+
+Minha paixão por aprender e inovação me leva a buscar soluções criativas no mundo da tecnologia, sempre pronto para abraçar novas oportunidades de aprendizado e crescimento.
+
+<a href="https://www.linkedin.com/in/ana-paula-gomes-guimaraes" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white" alt="Linkedin: anapaula">
+</a>
 
 ## Tecnologias 👩‍💻
 
