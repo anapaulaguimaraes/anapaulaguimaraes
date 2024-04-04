@@ -7,11 +7,10 @@ Frameworks: Laravel, Spring Boot e Flutter.
 Bancos de dados: PL/SQL, MySQL e PostgreSQL.
 Metodologia ágil: Scrum.
 
-Minha paixão por aprender e inovação me leva a buscar soluções criativas no mundo da tecnologia, sempre pronto para abraçar novas oportunidades de aprendizado e crescimento.
+Minha paixão por aprendizado e inovação me leva a buscar soluções criativas no mundo da tecnologia, sempre pronta para abraçar novas oportunidades de aprendizado e crescimento.
 
-<a href="https://www.linkedin.com/in/ana-paula-gomes-guimaraes" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white" alt="Linkedin: anapaula">
-</a>
+[![Linkedin: anapaula](https://img.shields.io/badge/-Linkedin-blue?style=for-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-gomes-guimaraes)](https://www.linkedin.com/in/ana-paula-gomes-guimaraes)
+
 
 ## Tecnologias 👩‍💻
 
