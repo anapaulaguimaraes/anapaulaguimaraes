@@ -49,5 +49,5 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho e tenho e
 
 ## Contatos 📞 
 
-<a href="[https:/www.linkedin.com/in/ana-paula-gomes-guimaraes/](https://www.linkedin.com/in/ana-paula-gomes-guimaraes/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ana-paula-gomes-guimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:anaapgg19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
