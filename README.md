@@ -6,9 +6,10 @@ Profissional apaixonada por tecnologia e inovação, formada em Análise e Desen
 
 - Back-end: PHP, Java, Python, Node.js, Laravel, Django, Spring Boot.
 - Front-end: JavaScript, React, Vue.js, HTML, CSS, Tailwind CSS, Bootstrap.
--  Mobile: Flutter.
--  Bancos de Dados: Oracle, MySQL, PostgreSQL.
--  Metodologia Ágil: Scrum.
+- Mobile: Flutter.
+- Bancos de Dados: Oracle, MySQL, PostgreSQL.
+- Automação de Processos RPA: UiPath.
+- Metodologia Ágil: Scrum.
 
 Minha paixão pelo aprendizado e inovação me impulsiona a buscar soluções criativas no mundo da tecnologia, sempre pronta para abraçar novas oportunidades de aprendizado e crescimento.
 
